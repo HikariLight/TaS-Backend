@@ -7,4 +7,4 @@ import { LoginService } from './login.service';
   controllers: [LoginController],
   providers: [LoginService],
 })
-export class AppModule {}
+export class LoginModule {}
